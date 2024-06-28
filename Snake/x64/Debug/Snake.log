@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\xuexi\Snake\Snake\main.cpp(185,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  Snake.vcxproj -> C:\xuexi\Snake\Snake\x64\Debug\Snake.exe
